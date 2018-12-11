@@ -1,0 +1,24 @@
+{
+
+    "products":[
+        {
+            "id":1,
+            "title":"One title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from one title in reach library.",
+            "image":"./images/image1.jpg"
+        },
+        {
+            "id":2,
+            "title":"Two title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from two title in reach library.",
+            "image":"./images/p2.jpg"
+        },
+        
+    ]
+
+
+}
